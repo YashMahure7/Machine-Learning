@@ -1,1 +1,31 @@
+Reads raw unstructured text data from initialdata.txt
 
+Splits the text into logical chunks
+
+Parses social media page information from each chunk (such as:
+
+Page name
+
+Category
+
+Number of posts
+
+Followers
+
+Following)
+
+Converts follower counts like 2.5M, 10K into numeric values
+
+Stores parsed results in structured JSON format
+
+Performs basic analytics, such as:
+
+Page with maximum posts
+
+Page with maximum followers
+
+Page with maximum following
+
+Total number of unique categories
+
+This is a data extraction + preprocessing + analysis project.
