@@ -56,5 +56,5 @@ This project focuses on extracting, cleaning, and analyzing social media page da
 - Beginner data science project
 
 ## 🧑‍💻 Author
-Your Name  
+Yash Mahure 
 Machine Learning / Data Science Student
